@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rahullahoria/mogi-ios-rtmp-example">
-    <img src="rtmp/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/rahullahoria/mogi-ios-rtmp-example/blob/main/rtmp/Icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mogi Ios RTMP Example</h3>
