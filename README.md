@@ -39,14 +39,14 @@
     1. Open app : Go to Preference
     2. Setup rtmp server and stream key as shown below
 
-    ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+    ![alt text](https://github.com/rahullahoria/mogi-ios-rtmp-example/blob/main/public/mogi-rtmp-server-streamKey.png)
 
 5. Features
     1. Switch to front camera
     2. Zoom In/out camera
     3. You can adjust video/audio bitrate as well 
 
-    ![alt text]()
+    ![alt text](https://github.com/rahullahoria/mogi-ios-rtmp-example/blob/main/public/mogi-rtmp-live.png)
 
     Finally, Start streaming now as shown below
 
